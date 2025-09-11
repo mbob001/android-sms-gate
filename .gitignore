@@ -1,0 +1,58 @@
+# Ignorovat binární soubory, adresáøe sestavení a mezipamì
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Ignorovat soubory a sloky Visual Studia
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vshost.*
+*.pdb
+*.psess
+*.ncb
+*.tlog
+*.vcproj.*.user
+*.vcxproj.user
+*.vcxproj.filters
+
+# Ignorovat soubory nastavení a balíèky
+packages/
+*.nupkg
+*.cache
+*.scc
+_ReSharper.*/
+*.resharper.user
+*.dotsettings
+*.tmp
+
+# Ignorovat soubory vytvoøené IDE
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+[Pp]roperties/
+_UpgradeReport_Files/
+
+# Ignorovat soubory operaèních systémù
+.DS_Store
+Thumbs.db
+
+# Ignorovat doèasné a logovací soubory
+*.log
+*.tmp
+
+.gradle
+.idea/
+build/
+local.properties
+/captures/
+.externalNativeBuild/
+*/.gradle
+*.keystore
+*.jks
+*.iml
+*.apk
+*.aab
+*.aar
