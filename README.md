@@ -1,4 +1,4 @@
-# android-sms-gate
+# Android SMS gate
 SMS gateway using Android phone and REST API
 
 The project includes two parts:
